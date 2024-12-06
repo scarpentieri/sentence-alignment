@@ -1,0 +1,10 @@
+----------
+Statistics for mitenand:
+
+Average sentences per file: 43 sentences
+Least sentences in a file: 26 sentences
+Most sentences in a file: 66 sentences
+Average tokens per sentence: 11 tokens
+Shortest sentence overall: * *
+Longest sentence overall: Questi dati saranno distribuiti a diversi utenti, agli scienziati che fanno studi sull'inquinamento e alle organizzazioni internazionali come la Commissione UE o il Programma ONU per l'ambiente, in particolare nel contesto dei trattati per la lotta all'inquinamento da plastica.
+----------

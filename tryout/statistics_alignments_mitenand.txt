@@ -1,0 +1,73 @@
+mitenand_0.tsv	43	43	40	38	triple_aligned:31	percentage_all_triple:72.09%
+mitenand_1.tsv	57	58	46	45	triple_aligned:46	percentage_all_triple:80.7%
+mitenand_2.tsv	44	47	39	35	triple_aligned:36	percentage_all_triple:81.82%
+mitenand_3.tsv	59	62	47	46	triple_aligned:51	percentage_all_triple:86.44%
+mitenand_4.tsv	52	53	44	41	triple_aligned:38	percentage_all_triple:73.08%
+mitenand_5.tsv	41	57	36	--
+mitenand_6.tsv	27	38	--	42
+mitenand_7.tsv	38	46	34	--
+mitenand_8.tsv	59	66	--	55
+mitenand_9.tsv	36	42	33	--
+mitenand_10.tsv	33	40	42	--
+mitenand_11.tsv	59	59	45	44	triple_aligned:47	percentage_all_triple:79.66%
+mitenand_12.tsv	31	40	--	36
+mitenand_13.tsv	51	52	41	38	triple_aligned:41	percentage_all_triple:80.39%
+mitenand_14.tsv	45	49	37	--
+mitenand_15.tsv	59	61	36	39	triple_aligned:41	percentage_all_triple:69.49%
+mitenand_16.tsv	32	42	--	36
+mitenand_17.tsv	47	51	36	38	triple_aligned:39	percentage_all_triple:82.98%
+mitenand_18.tsv	58	60	53	34	triple_aligned:46	percentage_all_triple:79.31%
+mitenand_19.tsv	41	50	--	44
+mitenand_20.tsv	38	46	46	--
+mitenand_21.tsv	40	53	41	--
+mitenand_22.tsv	51	60	42	--
+mitenand_23.tsv	37	41	38	--
+mitenand_24.tsv	35	41	--	34
+mitenand_25.tsv	36	34	36	39	triple_aligned:25	percentage_all_triple:69.44%
+mitenand_26.tsv	40	46	36	--
+mitenand_27.tsv	42	45	37	--
+mitenand_28.tsv	64	56	52	58	triple_aligned:44	percentage_all_triple:68.75%
+mitenand_29.tsv	47	60	41	--
+mitenand_30.tsv	32	35	34	27	triple_aligned:23	percentage_all_triple:71.88%
+mitenand_31.tsv	50	--	52	45
+mitenand_32.tsv	25	--	28	30
+mitenand_33.tsv	32	--	35	42
+mitenand_34.tsv	41	44	34	32	triple_aligned:33	percentage_all_triple:80.49%
+mitenand_35.tsv	33	--	40	35
+mitenand_36.tsv	41	46	39	39	triple_aligned:27	percentage_all_triple:65.85%
+mitenand_37.tsv	37	40	34	31	triple_aligned:22	percentage_all_triple:59.46%
+mitenand_38.tsv	26	--	31	31
+mitenand_39.tsv	34	--	35	34
+mitenand_40.tsv	49	51	37	47	triple_aligned:43	percentage_all_triple:87.76%
+mitenand_41.tsv	32	--	37	46
+mitenand_42.tsv	56	58	39	45	triple_aligned:44	percentage_all_triple:78.57%
+mitenand_43.tsv	25	--	28	31
+mitenand_44.tsv	32	39	36	--
+mitenand_45.tsv	61	64	38	42	triple_aligned:44	percentage_all_triple:72.13%
+mitenand_46.tsv	57	62	34	49	triple_aligned:39	percentage_all_triple:68.42%
+mitenand_47.tsv	35	--	37	36
+mitenand_48.tsv	53	62	--	46
+mitenand_49.tsv	30	38	--	38
+mitenand_50.tsv	42	43	36	40	triple_aligned:30	percentage_all_triple:71.43%
+mitenand_51.tsv	55	60	45	--
+mitenand_52.tsv	44	47	39	43	triple_aligned:37	percentage_all_triple:84.09%
+mitenand_53.tsv	32	--	35	29
+mitenand_54.tsv	35	--	39	43
+mitenand_55.tsv	39	46	41	--
+mitenand_56.tsv	32	--	36	49
+mitenand_57.tsv	55	54	44	50	triple_aligned:46	percentage_all_triple:83.64%
+mitenand_58.tsv	19	--	26	26
+mitenand_59.tsv	43	43	32	37	triple_aligned:28	percentage_all_triple:65.12%
+mitenand_60.tsv	36	--	40	48
+mitenand_63.tsv	36	--	40	53
+mitenand_64.tsv	29	--	29	39
+mitenand_65.tsv	35	41	32	--
+mitenand_66.tsv	50	51	32	44	triple_aligned:36	percentage_all_triple:72.0%
+mitenand_67.tsv	39	47	36	--
+mitenand_68.tsv	51	58	33	--
+mitenand_69.tsv	47	55	--	47
+mitenand_70.tsv	42	51	39	--
+mitenand_71.tsv	58	66	39	--
+mitenand_72.tsv	36	--	38	41
+mitenand_74.tsv	31	--	35	36
+Overall sentences: 7184 // Total aligned: 3009 // Triples aligned: 937 (13.0429% of all sentences)

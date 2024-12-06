@@ -1,0 +1,10 @@
+----------
+Statistics for helveticus:
+
+Average sentences per file: 39 sentences
+Least sentences in a file: 23 sentences
+Most sentences in a file: 66 sentences
+Average tokens per sentence: 10 tokens
+Shortest sentence overall: SI
+Longest sentence overall: Tout n'est peut-être pas parfaitement exact, mais l'inventivité et la curiosité d'Arthur Honegger en ont fait un compositeur exceptionnel qui a écrit toutes sortes de musiques différentes : opéra, musique de chambre, oratorio et même musique de film.
+----------

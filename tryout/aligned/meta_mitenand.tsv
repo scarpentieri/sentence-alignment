@@ -1,0 +1,73 @@
+filename_target	aligned_languages	aligned_languages_names	file_lines	de_source	it_source	fr_source
+mitenand_0.tsv	3	de-it-fr	43	2022-01-20_unterstützung_bei_der.srt	2022-06-06_fondazione_quellenhof_-.srt	2022-01-01_2204_chaîne_du_bonheur.srt
+mitenand_1.tsv	3	de-it-fr	57	2022-01-27_haarschnitt_für_ein.srt	2022-02-26_kar-li_-_un.srt	2022-03-13_2212_kar_li.srt
+mitenand_2.tsv	3	de-it-fr	44	2022-02-03_ghana_–_bildungschancen.srt	2022-02-12_opportunità_educative_grazie.srt	2022-04-03_2215_opportunity_international.srt
+mitenand_3.tsv	3	de-it-fr	59	2022-02-10_bewegungsförderung_für_kinder.srt	2022-05-07_idée_sport_-.srt	2022-08-21_2227_idée_sport.srt
+mitenand_4.tsv	3	de-it-fr	52	2022-02-17_lehrabschluss_trotz_beeinträchtigung.srt	2022-08-13_fondazione_brunau_-.srt	2022-05-08_2220_fondation_brunau.srt
+mitenand_5.tsv	2	de-it	41	2022-02-24_brasilien_–_ein.srt	2022-04-23_don_bosco_-.srt	
+mitenand_6.tsv	2	de-fr	27	2022-03-03_ein_neues_leben.srt		2022-05-03_kumea_recueille_les.srt
+mitenand_7.tsv	2	de-it	38	2022-03-10_unterstützung_für_flüchtlinge.srt	2022-03-19_caritas_-_sostegno.srt	
+mitenand_8.tsv	2	de-fr	59	2022-03-24_für_ein_leben.srt		2022-08-14_2229_palliaviva.srt
+mitenand_9.tsv	2	de-it	36	2022-03-31_brasilien_–_chancengleichheit.srt	2022-06-04_terres_des_hommes.srt	
+mitenand_10.tsv	2	de-it	33	2022-04-14_argentinien_–_eine.srt	2022-05-21_connexio_develop_(argentina).srt	
+mitenand_11.tsv	3	de-it-fr	59	2022-04-21_kunstatelier_für_begegnung.srt	2022-06-18_fondazione_solinetz_-.srt	2022-09-04_2232_atelier_d'art.srt
+mitenand_12.tsv	2	de-fr	31	2022-04-28_kunsttherapie_für_betroffene.srt		2022-02-06_2207_sclérose_en_plaques.srt
+mitenand_13.tsv	3	de-it-fr	51	2022-05-12_ein_warmer_platz.srt	2022-10-29_catena_della_solidarietà.srt	2022-04-17_2217_chaîne_du_bonheur.srt
+mitenand_14.tsv	2	de-it	45	2022-05-19_kolumbien_–_emotionen.srt	2022-07-09_vivamos_mejor_-.srt	
+mitenand_15.tsv	3	de-it-fr	59	2022-05-26_eine_wg_für.srt	2022-07-02_fondazione_felber_-.srt	2022-09-18_2233_fondation_felber.srt
+mitenand_16.tsv	2	de-fr	32	2022-06-09_mehr_raum_für.srt		2023-04-16_2318_pro_natura.srt
+mitenand_17.tsv	3	de-it-fr	47	2022-06-16_kambodscha_–_ein.srt	2022-12-31_kamboo,_aiuto_alla.srt	2022-10-09_2237_kamboo.srt
+mitenand_18.tsv	3	de-it-fr	58	2022-06-23_selbstverteidigungskurse_für_queers.srt	2022-07-30_pink_cross_svizzera.srt	2240_pink_cross.srt
+mitenand_19.tsv	2	de-fr	41	2022-06-30_wenn_berührung_schmerz.srt		2246_schmetterlingskinder.srt
+mitenand_20.tsv	2	de-it	38	2022-07-07_polen_–_unterstützung.srt	2022-08-06_catena_della_solidarietà.srt	
+mitenand_21.tsv	2	de-it	40	2022-07-25_ex-sträflinge_leisten_präventionsarbeit.srt	2022-08-27_i_detenuti_aiutano.srt	
+mitenand_22.tsv	2	de-it	51	2022-08-01_leben_mit_cystischer.srt	2022-11-12_fibrosi_cistica_svizzera,.srt	
+mitenand_23.tsv	2	de-it	37	2022-08-08_vom_müllsammler_zum.srt	2022-09-24_smiling_gecko_-.srt	
+mitenand_24.tsv	2	de-fr	35	2022-09-08_sansibar_–_unabhängigkeit.srt		2022-02-24_zedi_a_appris.srt
+mitenand_25.tsv	3	de-it-fr	36	2022-10-06_pakete_voller_liebe.srt	2022-03-26_associazione_ellie&mia_-.srt	2022-10-02_2234_association_ellie_et.srt
+mitenand_26.tsv	2	de-it	40	2022-10-13_vietnam_–_unterstützung.srt	2022-11-19_medico_international_svizzera.srt	
+mitenand_27.tsv	2	de-it	42	2022-11-03_thailand_–_kampf.srt	2023-01-07_trash_hero,_contro.srt	
+mitenand_28.tsv	3	de-it-fr	64	2022-11-17_prävention_von_gewalt.srt	2022-10-08_associazione_patouch_-.srt	2022-04-24_2218_patouch.srt
+mitenand_29.tsv	2	de-it	47	2022-11-24_tauchen_mit_handicap.srt	2023-03-04_hsa_-_handicapped.srt	
+mitenand_30.tsv	3	de-it-fr	32	2022-12-01_einsatz_für_die.srt	2023-02-18_wwf_-_lis.srt	2023-02-19_2309_wwf.srt
+mitenand_31.tsv	2	it-fr	50		2022-01-22_fondazione_san_gottardo.srt	2022-05-01_2219_fondation_san_gottardo.srt
+mitenand_32.tsv	2	it-fr	25		2022-01-29_flavie_-_associazione.srt	2022-05-03_après_l’incendie_meurtrier.srt
+mitenand_33.tsv	2	it-fr	32		2022-02-05_fondazione_theodora,_contribuire.srt	2022-02-13_2208_Theodora.srt
+mitenand_34.tsv	3	de-it-fr	41	2023-01-26_ägypten_–_unterstützung.srt	2022-04-16_handicap_international_-.srt	2023-08-11_handicap_international_-.srt
+mitenand_35.tsv	2	it-fr	33		2022-05-14_narcisses_riviera_-.srt	2021-05-23_2126_narcisse_riviera.srt
+mitenand_36.tsv	3	de-it-fr	41	2022-11-10_nach_einem_hirnschlag.srt	2022-06-11_fragile_-_lis.srt	2022-02-20_2209_fragile.srt
+mitenand_37.tsv	3	de-it-fr	37	2023-05-25_einsatz_für_mantas.srt	2022-07-16_save_our_seas.srt	2022-06-05_2225_save_our_seas.srt
+mitenand_38.tsv	2	it-fr	26		2022-07-23_ridere_per_vivere.srt	2023-08-11_ridere_per_vivere.srt
+mitenand_39.tsv	2	it-fr	34		2022-08-20_boscoticino_-_associazione.srt	2023-01-29_2306_boscoticino.srt
+mitenand_40.tsv	3	de-it-fr	49	2023-02-16_ein_hund_fürs.srt	2022-09-10_forza_rescue_dog.srt	2023-01-08_2304_forza_rescue_dog.srt
+mitenand_41.tsv	2	it-fr	32		2022-09-17_particimedia_-_la.srt	2021-12-26_2161_particimedia.srt
+mitenand_42.tsv	3	de-it-fr	56	2022-06-02_belize_–_einsatz.srt	2022-10-15_fondazione_papiliorama_-.srt	2023-01-05_2302_papiliorama.srt
+mitenand_43.tsv	2	it-fr	25		2022-11-05_associazione_via,_contro.srt	2022-04-10_2216_via.srt
+mitenand_44.tsv	2	de-it	32	2023-03-23_lebensfreude_trotz_chronischer.srt	2022-11-26_associazione_malattie_genetiche.srt	
+mitenand_45.tsv	3	de-it-fr	61	2022-09-29_engagement_für_tiere.srt	2022-12-10_fondazione_susy_utzinger,.srt	2023-02-26_2303_susy_utzinger.srt
+mitenand_46.tsv	3	de-it-fr	57	2022-12-22_libanon_–_eine.srt	2023-01-14_swiss4lebanon,_scuola_per.srt	2023-01-22_2305_swissforlebanon.srt
+mitenand_47.tsv	2	it-fr	35		2022-12-24_fondazione_alessia,_cure.srt	2023-05-07_2317_association_alessia.srt
+mitenand_48.tsv	2	de-fr	53	2023-01-05_ein_rettungsdienst_für.srt		2023-03-19_2315_tierrettungsdienst.srt
+mitenand_49.tsv	2	de-fr	30	2023-02-09_unterstützung_für_patientinnen.srt		2022-07-03_2230_altea.srt
+mitenand_50.tsv	3	de-it-fr	42	2023-02-23_neue_wohnformen,_um.srt	2023-02-25_halege_-_abitare.srt	2022-10-16_2243_halege.srt
+mitenand_51.tsv	2	de-it	55	2023-01-19_gemeinsam_statt_einsam.srt	2023-02-04_croce_rossa_svizzera.srt	
+mitenand_52.tsv	3	de-it-fr	44	2023-01-12_bali_–_ein.srt	2023-02-11_associazione_futuro_per.srt	2023-04-09_2316_zukunft_fur_kinder.srt
+mitenand_53.tsv	2	it-fr	32		2023-03-18_fondazione_pro_mente.srt	2023-07-02_2329_pro_mente_sana.srt
+mitenand_54.tsv	2	it-fr	35		2023-03-25_alter_start_food.srt	2248_alterstartfood.srt
+mitenand_55.tsv	2	de-it	39	2023-03-02_rheuma_in_jungen.srt	2023-04-01_lega_svizzera_contro.srt	
+mitenand_56.tsv	2	it-fr	32		2023-04-08_associazione_refettorio_-.srt	2023-03-05_2310_le_refettorio.srt
+mitenand_57.tsv	3	de-it-fr	55	2023-03-09_psychologische_unterstützung_für.srt	2023-04-15_psy4asyl_-_sostegno.srt	2023-06-04_2327_psy4asyl.srt
+mitenand_58.tsv	2	it-fr	19		2023-04-29_associazione_"for_womxn,.srt	2023-02-05_2307_for_womxn.srt
+mitenand_59.tsv	3	de-it-fr	43	2023-07-10_kein_essen_mehr.srt	2023-05-06_swiss_food_academy.srt	2023-03-12_2311_swissfoodacademy.srt
+mitenand_60.tsv	2	it-fr	36		2023-05-20_associazione_oceaneye_-.srt	2247_oceaneye.srt
+mitenand_63.tsv	2	it-fr	36		2023-06-17_fondazione_le_copain.srt	2023-04-30_2320_le_copain.srt
+mitenand_64.tsv	2	it-fr	29		2023-07-01_fondazione_vacanze_in.srt	2023-07-09_2323_vacances.srt
+mitenand_65.tsv	2	de-it	35	2023-03-16_brennholz_von_menschen.srt	2023-08-12_fondazione_züriwerk,_integrazione.srt	
+mitenand_66.tsv	3	de-it-fr	50	2023-03-30_ein_haus_für.srt	2023-08-19_kosmos_space_-.srt	2023-06-18_2328_kosmos.srt
+mitenand_67.tsv	2	de-it	39	2023-04-27_kuba_–_spielerisch.srt	2023-09-02_zunzun_–_progetti.srt	
+mitenand_68.tsv	2	de-it	51	2023-05-04_chancengleichheit_für_schulkinder.srt	2023-09-23_arche_zürich_–.srt	
+mitenand_69.tsv	2	de-fr	47	2023-05-18_unterstützung_für_junge.srt		2238_chaine_du_bonheur.srt
+mitenand_70.tsv	2	de-it	42	2023-06-01_brasilien_–_für.srt	2023-07-15_arco_–_progetti.srt	
+mitenand_71.tsv	2	de-it	58	2023-06-08_basketball_für_benachteiligte.srt	2023-07-22_bölle_isch_lebe.srt	
+mitenand_72.tsv	2	it-fr	36		2022-03-12_croce_blu_-.srt	2022-05-06_pour_se_détacher.srt
+mitenand_74.tsv	2	it-fr	31		2023-09-09_associazione_l’eveil_-.srt	2023-04-23_2313_atelier_l'eveil.srt
